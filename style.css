@@ -1,0 +1,17 @@
+body{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:30px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+button{
+    font-weight: 800;
+    font-size: 30px;
+}
